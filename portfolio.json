@@ -1,0 +1,19 @@
+{
+  "title": "SportsWorld",
+  "description": "Full-stack prosjekt med frontend og backend hvor brukeren kan utføre CRUD-operasjoner gjennom et brukervennlig grensesnitt.",
+  "category": "kristiania",
+  "grade": "A",
+  "featured": true,
+  "legacyId": 2,
+  "thumbnail": "docs/portfolio/sportsworldthumbnail.jpg",
+  "screenshots": [
+    "docs/portfolio/sportsworld-2.jpg",
+    "docs/portfolio/sportsworld-3.jpg",
+    "docs/portfolio/sportsworld-4.jpg",
+    "docs/portfolio/sportsworld-5.jpg"
+  ],
+  "sections": [
+    "Oversikt",
+    "Arkitektur"
+  ]
+}
